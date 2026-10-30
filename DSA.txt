@@ -1,0 +1,5 @@
+# DSA using c notes
+stacks
+queues
+tree
+graph
